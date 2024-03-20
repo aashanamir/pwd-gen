@@ -28,7 +28,7 @@ This is a simple React application that allows users to generate passwords with 
 1. Clone this repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/aashanamir/pwd-gen.git
     ```
 
 2. Navigate to the project directory:
